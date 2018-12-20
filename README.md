@@ -1,1 +1,1 @@
-# ogp-admin-ng1
+# admin-ng1-2017
